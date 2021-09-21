@@ -5,7 +5,7 @@ import markups as nav
 
 import random
  
-bot = Bot(token='1944250925:AAEewvjNxZGtuR0GMX8u94VOafVLUW9JbwM')
+bot = Bot(token='bb')
 dp = Dispatcher(bot)
 
 @dp.message_handler(commands=['start'])
